@@ -8,20 +8,19 @@
 </p>
 
 <p align="center">
-Atuando com monitoramento, análise de dados operacionais e evolução para Data Analytics 🚀
+  Atuando com monitoramento, análise de dados operacionais e evolução para Data Analytics 🚀
 </p>
 
-<p align="center">📍 São Paulo, Brasil</p>
+<p align="center">
+  📍 São Paulo, Brasil
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Excel-1a1a2e?style=for-the-badge&logo=microsoft-excel&logoColor=green"/>
-  <img src="https://img.shields.io/badge/Grafana-1a1a2e?style=for-the-badge&logo=grafana&logoColor=orange"/>
+  🗄️ SQL • 🐍 Python • 📊 Excel • 📈 Grafana • 📉 Power BI
 </p>
 
 ---
@@ -29,12 +28,9 @@ Atuando com monitoramento, análise de dados operacionais e evolução para Data
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/paulotcampos/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:paulotadeusilva35@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="mailto:paulotadeusilva35@gmail.com">Email</a> •
+  <a href="https://github.com/PauloTcampos5">GitHub</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a>
 </p>
 
 ---
