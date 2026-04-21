@@ -29,7 +29,6 @@
 
 <p align="center">
   <a href="mailto:paulotadeusilva35@gmail.com">Email</a> •
-  <a href="https://github.com/PauloTcampos5">GitHub</a> •
   <a href="https://www.linkedin.com/in/paulotcampos/">LinkedIn</a>
 </p>
 
